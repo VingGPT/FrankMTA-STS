@@ -1,1 +1,2 @@
-# FrankMTA-STS
+# FCA mta-sts
+MTA-STS policy
